@@ -1,6 +1,6 @@
 # Hi, I'm Jake 👋
 
-🛠️ Building precise software — Mac utilities, audio & security · 🎵 Making music
+🛠️ Building software — audio, utilities & security · 🎵 Making music
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
