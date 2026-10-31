@@ -14,5 +14,5 @@
 
 ## Elsewhere
 
-- 🧪 **[AntelisLabs.com](https://antelislabs.com)**: software for Mac, starting with audio, plus a few small free utilities.
+- 🧪 **[AntelisLabs.com](https://antelislabs.com)**: my software company.
 - 🎵 **[JakeAntelis.com](https://jakeantelis.com)**: music and production.
