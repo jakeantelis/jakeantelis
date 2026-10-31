@@ -14,5 +14,5 @@
 
 ## Elsewhere
 
-- 🧪 **[AntelisLabs.com](https://antelislabs.com)**: my software company.
+- 🧪 **[AntelisLabs.com](https://antelislabs.com)**: a software company.
 - 🎵 **[JakeAntelis.com](https://jakeantelis.com)**: music and production.
