@@ -14,5 +14,5 @@
 
 ## Elsewhere
 
-- 🧪 **[AntelisLabs.com](https://antelislabs.com)**: a Mac native audio suite (mix prep, mixing and mastering) plus a few small free utilities.
+- 🧪 **[AntelisLabs.com](https://antelislabs.com)**: Mac software, starting with audio (mix prep, mixing and mastering), plus a few small free utilities.
 - 🎵 **[JakeAntelis.com](https://jakeantelis.com)**: music and production.
