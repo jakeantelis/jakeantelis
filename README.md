@@ -1,6 +1,6 @@
 # Hi, I'm Jake 👋
 
-🛠️ Building software — audio, utilities & security · 🎵 Making music
+🛠️ Building software: audio, utilities and security · 🎵 Making music
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
@@ -9,10 +9,10 @@
 
 ## Apps
 
-- 🍵 **[Matcha](https://github.com/jakeantelis/Matcha)** — keeps your Mac awake. A quiet menu-bar switch for when sleep gets in the way.
-- 🪷 **[Tarn](https://github.com/jakeantelis/Tarn)** — a calm focus & breathing timer for macOS.
+- 🍵 **[Matcha](https://github.com/jakeantelis/Matcha)**: keeps your Mac awake. A quiet menu bar switch for when sleep gets in the way.
+- 🪷 **[Tarn](https://github.com/jakeantelis/Tarn)**: a calm focus and breathing timer for macOS.
 
 ## Elsewhere
 
-- 🧪 **[AntelisLabs.com](https://antelislabs.com)** — a Mac-native audio suite (mix prep, mixing & mastering) plus a few small free utilities.
-- 🎵 **[JakeAntelis.com](https://jakeantelis.com)** — music & production.
+- 🧪 **[AntelisLabs.com](https://antelislabs.com)**: a Mac native audio suite (mix prep, mixing and mastering) plus a few small free utilities.
+- 🎵 **[JakeAntelis.com](https://jakeantelis.com)**: music and production.
